@@ -1,12 +1,13 @@
-# Brenda Okonofua – Data Analyst
+# Brenda Okonofua
+### Data Analyst | Python Learner | AI Enthusiast
 
 Hello! I am a fast-learning, detail-oriented Data Analyst with a growing passion for using data to drive smart business decisions. I specialize in SQL, Excel, and visualization tools, and I am currently exploring how AI can enhance data analysis workflows with a background in software engineering.
 
 ---
 
-## Projects
+## Featured Projects
 
-### Fitness Center Database & Reporting System
+### [Fitness Center Database Project]("C:\Users\USER\Women in AI Webfala\brenda-data-portfolio\Evolve-Fitness-DB")
 
 **Tools**: SQL, Excel  
 
@@ -22,13 +23,16 @@ Hello! I am a fast-learning, detail-oriented Data Analyst with a growing passion
 
 ---
 
-### AI & Sentiment Analysis (Upcoming...)
-**Tools**: Python, NLP  
-**Goal**: Analyze customer reviews and automate feedback insights.
+### [Download myesume]("C:\Users\USER\Women in AI Webfala\brenda-data-portfolio\resume.pdf.pdf")
 
 ---
 
-## Contact Me
-Email: brenvaltessy@yahoo.com  
-LinkedIn: [linkedin.com/in/brendaokonofua](www.linkedin.com/in/brenda-okonofua-6371a826)  
-GitHub: [github.com/Dabrencreationz](https://github.com/Dabrencreationz
+### Latest Blog Post
+- [What I Learned from My First Data Project](https://www.linkedin.com/posts/brenda-okonofua-6371a826_teambrenda-womeninai-webfala-activity-7336721894135554048-Pn66?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAVeD4sBXwO4TK3_53h04H3SB-bxZJAZjSs)
+
+---
+
+## Let us Connect
+- Email: brenvaltessy@yahoo.com  
+- LinkedIn: [linkedin.com/in/brendaokonofua](www.linkedin.com/in/brenda-okonofua-6371a826)  
+- GitHub: [github.com/Dabrencreationz](https://github.com/Dabrencreationz
