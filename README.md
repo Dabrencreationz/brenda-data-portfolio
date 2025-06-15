@@ -1,12 +1,12 @@
 # Brenda Okonofua – Data Analyst
 
-Hello! I am a fast-learning, detail-oriented Data Analyst with a growing passion for using data to drive smart business decisions. I specialize in SQL, Excel, and visualization tools, and I am currently exploring how AI can enhance data analysis workflows.
+Hello! I am a fast-learning, detail-oriented Data Analyst with a growing passion for using data to drive smart business decisions. I specialize in SQL, Excel, and visualization tools, and I am currently exploring how AI can enhance data analysis workflows with a background in software engineering.
 
 ---
 
-## 💼 Projects
+## Projects
 
-### 🏋️‍♀️ Fitness Center Database & Reporting System
+### Fitness Center Database & Reporting System
 
 **Tools**: SQL, Excel  
 
@@ -22,13 +22,13 @@ Hello! I am a fast-learning, detail-oriented Data Analyst with a growing passion
 
 ---
 
-### 🤖 AI & Sentiment Analysis (Upcoming...)
+### AI & Sentiment Analysis (Upcoming...)
 **Tools**: Python, NLP  
 **Goal**: Analyze customer reviews and automate feedback insights.
 
 ---
 
-## 📬 Contact Me
-📧 Email: brenvaltessy@yahoo.com  
-🌐 LinkedIn: [linkedin.com/in/brendaokonofua](https://linkedin.com/in/brendaokonofua)  
-📂 GitHub: [github.com/Dabrencreationz](https://github.com/Dabrencreationz
+## Contact Me
+Email: brenvaltessy@yahoo.com  
+LinkedIn: [linkedin.com/in/brendaokonofua](www.linkedin.com/in/brenda-okonofua-6371a826)  
+GitHub: [github.com/Dabrencreationz](https://github.com/Dabrencreationz
