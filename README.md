@@ -7,7 +7,7 @@ Hello! I am a fast-learning, detail-oriented Data Analyst with a growing passion
 
 ## Featured Projects
 
-### [Fitness Center Database Project]("C:\Users\USER\Women in AI Webfala\brenda-data-portfolio\Evolve-Fitness-DB")
+### Fitness Center Database Project ... Loading
 
 **Tools**: SQL, Excel  
 
@@ -23,7 +23,7 @@ Hello! I am a fast-learning, detail-oriented Data Analyst with a growing passion
 
 ---
 
-### [Download myesume]("C:\Users\USER\Women in AI Webfala\brenda-data-portfolio\resume.pdf.pdf")
+### Download My Resume
 
 ---
 
